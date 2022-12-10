@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "isc",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "http://isc.rotanova.top:9980",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
